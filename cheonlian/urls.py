@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # url path create
     #person2
+    # person1 commit
 ]
